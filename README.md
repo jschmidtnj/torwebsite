@@ -26,3 +26,7 @@ Follow the first few steps of this for random advice:
 https://www.comparitech.com/blog/vpn-privacy/how-to-set-up-a-tor-hidden-service/#Prepping_the_actual_service_web_SSH
 
 Check if the nginx server is working with the domain name from the cloud account...
+
+
+Use Eschalot to get a custom domain: https://github.com/ReclaimYourPrivacy/eschalot
+
