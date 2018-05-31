@@ -1,6 +1,12 @@
 # torwebsite
 this is a website running on tor browser
 
+## Github pages version: https://torgit.ml
+
+## Google Cloud Platform version: https://joshuator.ml
+
+## GCP .onion url: http://qtcr5ehjtqxokuhr.onion/
+
 Instructions:
 Start with making an ec2 instance with ports html (80) and ssh
 Make an nginx server:
