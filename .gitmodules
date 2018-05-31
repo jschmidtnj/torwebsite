@@ -1,0 +1,3 @@
+[submodule "eschalot"]
+	path = eschalot
+	url = https://github.com/ReclaimYourPrivacy/eschalot
