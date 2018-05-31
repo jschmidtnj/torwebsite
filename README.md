@@ -31,6 +31,7 @@ Check if the nginx server is working with the domain name from the cloud account
 Use Eschalot to get a custom domain: https://github.com/ReclaimYourPrivacy/eschalot
 
 ### cronjobs:
+* install postfix: `sudo apt-get install postfix`
 * edit: `crontab -e`
 * (run as sudo su)
 * edit permissions: `sudo chmod 777 .git`
