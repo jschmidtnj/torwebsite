@@ -31,11 +31,11 @@ Check if the nginx server is working with the domain name from the cloud account
 Use Eschalot to get a custom domain: https://github.com/ReclaimYourPrivacy/eschalot
 
 ### cronjobs:
-⋅⋅*edit: `crontab -e`
-⋅⋅*(run as sudo su)
-⋅⋅*edit permissions: `sudo chmod 777 .git`
-⋅⋅*service: `sudo service cron start | status | restart`
-⋅⋅*cronjob for updating git repo every hour:
-⋅⋅*`0 * * * * su -s /bin/sh root -c 'cd /home/joshuatorwebsite/torwebsite && git pull origin master'`
-⋅⋅*every minute:
-⋅⋅*`*/1 * * * *`
+⋅⋅* edit: `crontab -e`
+⋅⋅* (run as sudo su)
+⋅⋅* edit permissions: `sudo chmod 777 .git`
+⋅⋅* service: `sudo service cron start | status | restart`
+⋅⋅* cronjob for updating git repo every hour:
+⋅⋅* `0 * * * * su -s /bin/sh root -c 'cd /home/joshuatorwebsite/torwebsite && git pull origin master'`
+⋅⋅* every minute:
+⋅⋅* `*/1 * * * *`
