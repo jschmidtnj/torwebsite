@@ -40,3 +40,4 @@ Use Eschalot to get a custom domain: https://github.com/ReclaimYourPrivacy/escha
 * `0 * * * * su -s /bin/sh root -c 'cd /home/joshuatorwebsite/torwebsite && git pull origin master'`
 * every minute:
 * `*/1 * * * *`
+* 0 * * * * su -s /bin/sh root -c 'cd /home/joshuatorwebsite/torwebsite && git pull origin master && service nginx restart && service tor restart'
