@@ -5,7 +5,7 @@ this is a website running on tor browser
 
 ## Google Cloud Platform version: https://joshuator.ml
 
-## GCP .onion url: http://qtcr5ehjtqxokuhr.onion/
+## GCP .onion url: http://ohm2pcsjrukudzmv.onion
 
 Instructions:
 Start with making an ec2 instance with ports html (80) and ssh
